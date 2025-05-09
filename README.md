@@ -19,3 +19,10 @@ I'm a passionate Data Analyst who loves working with data and building impactful
 ## 🌟 Fun Facts
 - I love solving puzzles.
 - I enjoy contributing to open-source projects.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRANAVSATHYAN/PRANAVSATHYAN/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRANAVSATHYAN/PRANAVSATHYAN/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PRANAVSATHYAN/PRANAVSATHYAN/output/github-snake.svg" />
+</picture>
