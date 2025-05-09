@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pranav! 👋
 
-<!--
-**PRANAVSATHYAN/PRANAVSATHYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Data Analyst who loves working with data and building impactful projects. I specialize in analyzing complex datasets and visualizing them for decision-making.
 
-Here are some ideas to get you started:
+## 🔧 Technologies and Tools
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to Reach Me
+- Email: pranavsathyan@gmail.com
+- LinkedIn: [[linkedin.com/in/pranavsathyan](https://linkedin.com/in/pranavsathyan)](https://www.linkedin.com/in/pranavsathyan/)
+
+## 🌟 Fun Facts
+- I love solving puzzles.
+- I enjoy contributing to open-source projects.
